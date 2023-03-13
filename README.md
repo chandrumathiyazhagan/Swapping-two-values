@@ -22,6 +22,7 @@ End the program
 #Program to swap two values.
 #Developed by:M.CHANDRU
 #RegisterNumber:212222230026
+
 ball1,ball2=input(),input()
 temp=ball1
 ball1=ball2
