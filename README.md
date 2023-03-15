@@ -29,7 +29,7 @@ ball1=ball2
 ball2=temp
 print("Swapped values are:",ball1,ball2)
 ```
-##OUTPUT:
+## OUTPUT:
 ![python](https://user-images.githubusercontent.com/119393023/224730445-111fafbb-5d96-4d61-90ae-057797a54304.png)
 
 ## RESULT:
